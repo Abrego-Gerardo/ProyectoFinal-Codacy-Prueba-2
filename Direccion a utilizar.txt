@@ -1,0 +1,25 @@
+Direccion Principal
+http://localhost/Calidad_de_Software_3/index.php
+
+
+Direcciones para cada pagina
+
+Direcciones de pantallas registro de usuario
+http://localhost/Calidad de Sotware 3/login_form.php
+http://localhost/Calidad_de_Software_3/views/register_form.php
+
+Direcciones de pantallas del catalogo
+http://localhost/Calidad_de_Software_3/views/catalogo_viajes.php
+http://localhost/Calidad_de_Software_3/views/buscar_viajes.php
+http://localhost/Calidad_de_Software_3/views/detalles_viajes.php
+http://localhost/Calidad_de_Software_3/views/confirmar_reserva.php
+
+Direccion de pantalla de reservas
+http://localhost/Calidad_de_Software_3/views/detalles_reservas.php
+
+Direcciones de pantallas de administracion
+http://localhost/Calidad_de_Software_3/views/administracion.php
+http://localhost/Calidad_de_Software_3/views/agregar_paquete.php
+
+Direccion de pantallas de contactos
+http://localhost/Calidad_de_Software_3/views/contactos.php
